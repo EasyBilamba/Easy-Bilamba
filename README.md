@@ -121,47 +121,43 @@ cd mobile
 flutter pub get
 flutter run
 
-🌐 Endpoints API REST
+# Endpoints API REST
 Méthode	Endpoint	Description
 POST	/auth/register	Inscription
 POST	/auth/login	Connexion
 GET	/products	Liste des annonces
 POST	/products	Créer une annonce
 GET	/messages/{id}	Messages d’une conversation
-📦 Déploiement
+
+
+# 📦 Déploiement
 
 Backend : AWS EC2 / Heroku
-
 Base de données : AWS RDS / Railway
-
 Stockage : Amazon S3 / Firebase Storage
-
 Mobile : Google Play + Apple App Store
 
-📸 Captures d’écran
+# 📸 Captures d’écran
 
 (À insérer après design)
 
 
 
 
-📝 Licence
+# 📝 Licence
 
 Distribué sous licence MIT — utilisation libre avec attribution.
 
-🤝 Contribution
+# 🤝 Contribution
 
-Fork du projet
+## Fork du projet
 
 Créer une branche : feature/ma-fonctionnalite
-
 Commit : git commit -m "Ajout fonctionnalité X"
-
 Push : git push origin feature/ma-fonctionnalite
-
 Pull Request
 
-📧 Contact
+# 📧 Contact
 
 Email : contact@easybilamba.com
 
